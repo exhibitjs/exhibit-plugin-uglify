@@ -46,6 +46,7 @@
   "files": [
     "dist"
   ],
+  "license": "MIT",
   "main": "dist/index.js",
   "repository": "exhibitjs/exhibit-plugin-uglify",
   "scripts": {
