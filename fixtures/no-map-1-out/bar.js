@@ -1,0 +1,1 @@
+window(function(){x=-3});

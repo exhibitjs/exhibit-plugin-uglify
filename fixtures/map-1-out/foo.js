@@ -1,0 +1,2 @@
+function hello(){!function(){console.log("hi")}()}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvby5qcyJdLCJuYW1lcyI6WyJoZWxsbyIsImNvbnNvbGUiLCJsb2ciXSwibWFwcGluZ3MiOiJBQUFBLFFBQVNBLFVBQ1AsV0FDRUMsUUFBUUMsSUFBSSIsImZpbGUiOnRydWUsInNvdXJjZXNDb250ZW50IjpbImZ1bmN0aW9uIGhlbGxvKCkge1xuICAoZnVuY3Rpb24gKCkge1xuICAgIGNvbnNvbGUubG9nKCdoaScpO1xuICAgIH0pKCk7XG59XG4iXX0=
