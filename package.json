@@ -11,7 +11,7 @@
     ]
   },
   "dependencies": {
-    "babel-runtime": "^6.6.1",
+    "babel-runtime": "^6.9.1",
     "chalk": "^1.1.3",
     "convert-source-map": "^1.2.0",
     "exhibit": "^0.8.4",
