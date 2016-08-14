@@ -16,7 +16,7 @@
     "convert-source-map": "^1.2.0",
     "exhibit": "^0.8.4",
     "lodash": "^4.8.2",
-    "uglify-js": "^2.6.2"
+    "uglify-js": "^2.7.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
